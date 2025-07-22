@@ -1,0 +1,1 @@
+// Placeholder – pełna tłumaczenie App.tsx zostanie dodane w kolejnym kroku
